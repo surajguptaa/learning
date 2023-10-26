@@ -1,3 +1,3 @@
 # learning
 <br>
-This repo only learing purpose (sitm)
+This repo only learing purpose (stech institute)
